@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
