@@ -35,6 +35,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0231-power-of-two](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
