@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -66,5 +67,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
