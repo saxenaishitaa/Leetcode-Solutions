@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
