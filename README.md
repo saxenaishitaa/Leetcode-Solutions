@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -33,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
