@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
