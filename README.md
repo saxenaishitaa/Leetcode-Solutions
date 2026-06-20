@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0231-power-of-two) |
