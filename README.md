@@ -17,6 +17,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
