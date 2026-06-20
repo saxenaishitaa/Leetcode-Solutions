@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -31,6 +32,7 @@
 | [0001-two-sum](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
