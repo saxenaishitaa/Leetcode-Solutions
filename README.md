@@ -55,6 +55,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Stack
@@ -94,6 +95,7 @@
 | [0027-remove-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
