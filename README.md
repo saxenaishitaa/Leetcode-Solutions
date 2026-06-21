@@ -68,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -114,6 +115,7 @@
 | [0141-linked-list-cycle](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
@@ -174,6 +176,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
