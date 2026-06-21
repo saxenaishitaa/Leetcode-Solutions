@@ -122,6 +122,7 @@
 | [0190-reverse-bits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0119-pascals-triangle-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
