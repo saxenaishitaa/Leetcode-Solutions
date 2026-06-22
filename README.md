@@ -205,4 +205,16 @@
 | [0206-reverse-linked-list](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
