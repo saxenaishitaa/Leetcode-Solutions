@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
@@ -167,6 +168,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -175,6 +177,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -217,4 +220,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
