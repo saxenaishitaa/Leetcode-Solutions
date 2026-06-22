@@ -173,6 +173,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,9 +235,11 @@
 | [0101-symmetric-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
