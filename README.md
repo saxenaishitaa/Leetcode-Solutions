@@ -172,6 +172,7 @@
 | [0101-symmetric-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0101-symmetric-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,8 +232,10 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
