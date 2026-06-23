@@ -75,6 +75,7 @@
 | [0392-is-subsequence](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0283-move-zeroes](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -163,6 +166,7 @@
 | [0067-add-binary](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
