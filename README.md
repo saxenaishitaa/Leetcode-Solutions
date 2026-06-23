@@ -105,6 +105,7 @@
 | [0066-plus-one](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -198,6 +199,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -208,6 +210,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
