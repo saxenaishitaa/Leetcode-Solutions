@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -93,6 +94,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
