@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@
 | [0125-valid-palindrome](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -154,6 +156,7 @@
 | [0069-sqrtx](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/saxenaishitaa/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
